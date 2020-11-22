@@ -1,0 +1,13 @@
+---
+pageComponent: 
+  name: CategoryPage
+  data: 
+    key: 01.前端
+    imgUrl: /img/web.png
+    description: JavaScript、ES6、Vue框架等前端技术
+layout: CategoryPage
+title: 前端
+date: 2020-03-11 21:50:53
+sidebar: true
+article: true
+---

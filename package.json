@@ -1,0 +1,22 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ali-oss": "^6.11.2",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.0"
+  },
+  "dependencies": {
+    "element-ui": "^2.14.1"
+  }
+}
